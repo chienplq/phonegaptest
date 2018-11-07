@@ -1,0 +1,12 @@
+D:\hoc\DemoHash\DemoHash\bin\Debug\DemoHash.exe.config
+D:\hoc\DemoHash\DemoHash\bin\Debug\DemoHash.exe
+D:\hoc\DemoHash\DemoHash\bin\Debug\DemoHash.pdb
+D:\hoc\DemoHash\DemoHash\obj\Debug\DemoHash.csproj.CoreCompileInputs.cache
+D:\hoc\DemoHash\DemoHash\obj\Debug\DemoHash.exe
+D:\hoc\DemoHash\DemoHash\obj\Debug\DemoHash.pdb
+D:\hoc\DemoHash\DemoHash\obj\Debug\DemoHash.csprojAssemblyReference.cache
+D:\hoc\DemoHash\DemoHash\bin\Debug\EntityFramework.dll
+D:\hoc\DemoHash\DemoHash\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoc\DemoHash\DemoHash\bin\Debug\EntityFramework.xml
+D:\hoc\DemoHash\DemoHash\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoc\DemoHash\DemoHash\obj\Debug\DemoHash.csproj.CopyComplete

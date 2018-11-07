@@ -1,0 +1,7 @@
+D:\hoc\DemoHash\demoPKPK\bin\Debug\demoPKPK.exe.config
+D:\hoc\DemoHash\demoPKPK\bin\Debug\demoPKPK.exe
+D:\hoc\DemoHash\demoPKPK\bin\Debug\demoPKPK.pdb
+D:\hoc\DemoHash\demoPKPK\obj\Debug\demoPKPK.csprojAssemblyReference.cache
+D:\hoc\DemoHash\demoPKPK\obj\Debug\demoPKPK.csproj.CoreCompileInputs.cache
+D:\hoc\DemoHash\demoPKPK\obj\Debug\demoPKPK.exe
+D:\hoc\DemoHash\demoPKPK\obj\Debug\demoPKPK.pdb

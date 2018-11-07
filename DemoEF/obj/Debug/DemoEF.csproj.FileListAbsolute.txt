@@ -1,0 +1,12 @@
+D:\hoc\DemoHash\DemoEF\bin\Debug\DemoEF.exe.config
+D:\hoc\DemoHash\DemoEF\bin\Debug\DemoEF.exe
+D:\hoc\DemoHash\DemoEF\bin\Debug\DemoEF.pdb
+D:\hoc\DemoHash\DemoEF\bin\Debug\EntityFramework.dll
+D:\hoc\DemoHash\DemoEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\hoc\DemoHash\DemoEF\bin\Debug\EntityFramework.xml
+D:\hoc\DemoHash\DemoEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\hoc\DemoHash\DemoEF\obj\Debug\DemoEF.csprojAssemblyReference.cache
+D:\hoc\DemoHash\DemoEF\obj\Debug\DemoEF.csproj.CoreCompileInputs.cache
+D:\hoc\DemoHash\DemoEF\obj\Debug\DemoEF.csproj.CopyComplete
+D:\hoc\DemoHash\DemoEF\obj\Debug\DemoEF.exe
+D:\hoc\DemoHash\DemoEF\obj\Debug\DemoEF.pdb

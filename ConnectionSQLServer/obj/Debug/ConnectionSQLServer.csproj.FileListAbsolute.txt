@@ -1,0 +1,7 @@
+D:\hoc\DemoHash\ConnectionSQLServer\bin\Debug\ConnectionSQLServer.exe.config
+D:\hoc\DemoHash\ConnectionSQLServer\bin\Debug\ConnectionSQLServer.exe
+D:\hoc\DemoHash\ConnectionSQLServer\bin\Debug\ConnectionSQLServer.pdb
+D:\hoc\DemoHash\ConnectionSQLServer\obj\Debug\ConnectionSQLServer.csprojAssemblyReference.cache
+D:\hoc\DemoHash\ConnectionSQLServer\obj\Debug\ConnectionSQLServer.csproj.CoreCompileInputs.cache
+D:\hoc\DemoHash\ConnectionSQLServer\obj\Debug\ConnectionSQLServer.exe
+D:\hoc\DemoHash\ConnectionSQLServer\obj\Debug\ConnectionSQLServer.pdb

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<WebApplication1.Models.block>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.previousHash)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hash)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.timestamp)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.data)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.index)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.previousHash)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hash)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.timestamp)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.data)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.index }) |
+            @Html.ActionLink("Details", "Details", new { id = item.index }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.index })
+        </td>
+    </tr>
+}
+
+</table>
